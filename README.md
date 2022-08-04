@@ -1,7 +1,7 @@
 
 # Welcome To My PLanet 🪐
 
-<img align="left" width="300" style="margin-left: 25px" src="https://c.tenor.com/H0AXdLF5weAAAAAi/planet-space.gif"/>
+<img align="left" width="250" style="margin-left: 25px" src="https://c.tenor.com/H0AXdLF5weAAAAAi/planet-space.gif"/>
 
 ```diff
 $ whoami
