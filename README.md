@@ -8,7 +8,7 @@ $ whoami
 ~ Hi, I’m Bianca Patrocínio;🌌
 ~ Software engineering student in University of Brasília;💻
 ~ Made in Brazil;🌴
-~ Instagram: @bibia.dora;
+~ Instagram: @bibia.patrocinio;
 ~ Linkedin: https://www.linkedin.com/in/bianca-patroc%C3%ADnio-2391531ba/
 ~ Program like a girl!;👩‍💻
 
