@@ -25,20 +25,15 @@
 <img width="40" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg"/>
 <img width="40" src="https://logospng.org/download/css-3/logo-css-3-2048.png"/>
 <img width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
-
-
-
+<img width="30" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png"/>
+<img width="40" src="https://i.redd.it/tu3gt6ysfxq71.png"/>
 
 
 <div align="center">
 
 ### Studying in this moment:
+
 <img width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"/>
-
-<img width="40" src="https://cdn.worldvectorlogo.com/logos/java.svg"/>
-
-<img width="40" src="https://i.redd.it/tu3gt6ysfxq71.png"/>
-
 
 
 
