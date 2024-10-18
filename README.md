@@ -35,7 +35,7 @@
 ### Studying in this moment:
 <img width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"/>
 
-<img width="40" src="https://www.vippng.com/png/full/395-3953813_java-logo-transparent-background.png"/>
+<img width="40" src="https://cdn.worldvectorlogo.com/logos/java.svg"/>
 
 <img width="40" src="https://i.redd.it/tu3gt6ysfxq71.png"/>
 
