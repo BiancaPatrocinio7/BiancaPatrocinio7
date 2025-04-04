@@ -25,7 +25,7 @@
 <img width="40" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg"/>
 <img width="40" src="https://logospng.org/download/css-3/logo-css-3-2048.png"/>
 <img width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
-<img width="30" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png"/>
+<img width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png"/>
 <img width="40" src="https://i.redd.it/tu3gt6ysfxq71.png"/>
 
 
